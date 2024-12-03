@@ -1,0 +1,1 @@
+/home/juh/src/fw/memory.x.d/stm32l432kc

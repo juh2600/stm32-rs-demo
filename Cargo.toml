@@ -1,0 +1,10 @@
+[package]
+name = "stm32-rs-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cortex-m = "0.7.2"
+cortex-m-rt = "0.7.5"
+stm32l4xx-hal = {version = "0.7.1", features=["stm32l432"]}
+panic-itm = "0.4.2"
